@@ -11,9 +11,9 @@
 
 
 ### 💻 Courses Completed:
-✅ <a href="https://www.shecodes.io/workshops" target="_blank" rel="noreferrer"> SheCodes Basics </a>
-✅ SheCodes Plus
-✅ Hyperion Dev Software Engineering Bootcamp
+✅ <a href="https://www.shecodes.io/certificates/cdc7ee624c2b7023fb9534ef3a526d14" target="_blank" rel="noreferrer"> SheCodes Basics </a>
+✅ <a href="https://www.shecodes.io/certificates/8d1a32f5ef88caa871395e85701feddd" target="_blank" rel="noreferrer"> SheCodes Plus </a>
+✅ <a href="https://www.hyperiondev.com/portfolio/110972/" target="_blank" rel="noreferrer"> Hyperion Dev Software Engineering Bootcamp </a>
 
 
 ### ✏️ Languages:
