@@ -1,12 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
   
-  ### Hi there 👋
+### Hi there! I'm Nadine, an aspiring software engineer!👋
 </div>
 
 
 
-### Hi there! I'm Nadine, an aspiring software engineer!👋
 
 <!--
 **nadinelouise90/nadinelouise90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
