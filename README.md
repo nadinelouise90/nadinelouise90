@@ -3,7 +3,7 @@
   
 ### Hi there! I'm Nadine, an aspiring software engineer!👋
 
-**I am a highly motivated and ambitious software engineering student with over a year's worth of front-end and back-end academic experience, seeking junior and graduate software engineering roles. I have achieved certification in HTML, CSS, Javascript and Python programming acquired through dedicated online learning, currently in the form of a competitive fully-funded place on the online Software Engineering bootcamp with Hyperion Dev.**
+*I am a highly motivated and ambitious software engineering student with over a year's worth of front-end and back-end academic experience, seeking junior and graduate software engineering roles. I have achieved certification in HTML, CSS, Javascript and Python programming acquired through dedicated online learning, currently in the form of a competitive fully-funded place on the online Software Engineering bootcamp with Hyperion Dev.*
 </div>
 
 ### 🧠 Here is what I have learned so far:
