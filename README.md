@@ -6,12 +6,12 @@
 *I am a highly motivated and ambitious software engineering student with over a year's worth of front-end and back-end academic experience, seeking junior and graduate software engineering roles. I have achieved certification in HTML, CSS, Javascript and Python programming acquired through dedicated online learning, currently in the form of a competitive fully-funded place on the online Software Engineering bootcamp with Hyperion Dev.*
 </div>
 
-🔭 I’m currently working on completing the DfE funded Hyperion Dev Software Engineering Bootcamp
-🌱 I’m currently learning Python
+-🔭 I’m currently working on completing the DfE funded Hyperion Dev Software Engineering Bootcamp
+-🌱 I’m currently learning Python
 
 
 ### 💻 Courses Completed:
-✅ <a href="[https://www.w3schools.com/css/](https://www.shecodes.io/workshops)" target="_blank" rel="noreferrer"> SheCodes Basics </a>
+✅ <a href="https://www.shecodes.io/workshops" target="_blank" rel="noreferrer"> SheCodes Basics </a>
 ✅ SheCodes Plus
 ✅ Hyperion Dev Software Engineering Bootcamp
 
