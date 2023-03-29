@@ -6,7 +6,7 @@
 
 
 
-### Hi there 👋
+### Hi there! I'm Nadine, an aspiring software engineer!👋
 
 <!--
 **nadinelouise90/nadinelouise90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
